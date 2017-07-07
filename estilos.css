@@ -1,0 +1,21 @@
+p{
+	color: blue;
+	font-family: rale;
+	font-size: 70px
+	margin: auto;
+	
+}
+.red{
+	color: red;
+	font-family: rale;
+	font-size: 70px
+	
+	
+	
+
+}
+#particles-js{
+	background: url(imagenes/image.jpg);
+	background-position: center;
+	background-attachment: contain;
+}
